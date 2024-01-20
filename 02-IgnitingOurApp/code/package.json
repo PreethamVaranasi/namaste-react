@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreethamVaranasi/namaste-react.git"
+  },
+  "author": "Preetham Varanasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PreethamVaranasi/namaste-react/issues"
+  },
+  "homepage": "https://github.com/PreethamVaranasi/namaste-react#readme",
+  "dependencies": {
+    "parcel": "^2.11.0"
+  }
+}
